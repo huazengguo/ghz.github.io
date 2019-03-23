@@ -9,6 +9,7 @@
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      p><b>本人毕业于西北工业大学航海学院硕士研究生</b></p>
     </td>
   </tr>
 </table>
