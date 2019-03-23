@@ -9,7 +9,7 @@
       <p><b>邮编：710072</b></p>
     </td>
     <td width="75%">
-      <img src="/DSC_0011.jpg" width="30%">   
+      <img src="/DSC_0011.jpg" width="100%">   
       <p><b>本人毕业于西北工业大学航海学院硕士研究生</b></p>
     </td>
   </tr>
