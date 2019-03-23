@@ -9,7 +9,7 @@
       <p><b>邮编：710072</b></p>
     </td>
     <td width="25%">
-      <img src="/DSC_0011.jpg" width="75%">     
+      <img src="/DSC_0011.jpg" width="100%">     
     </td>
   </tr>
 </table>
