@@ -9,7 +9,7 @@
       <p><b>Tel：18829535787</b></p>
     </td>
     <td width="25%">
-      <img src="/DSC_0011.jpg" width="100%">     
+      <img src="/大头贴.jpg" width="100%">     
     </td>
   </tr>
 </table>
