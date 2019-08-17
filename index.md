@@ -9,7 +9,7 @@
       <p><b>Tel：18829535787</b></p>
     </td>
     <td width="25%">
-      <img src="/picture.jpg" width="100%">     
+      <img src="/photo.jpg" width="100%">     
     </td>
   </tr>
 </table>
